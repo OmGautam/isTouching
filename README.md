@@ -1,2 +1,2 @@
-# isTouching_Project
-In this I learned how to use the isTouching algorithm.
+# p5.play-boilerplate
+Boiler plate for p5.play
